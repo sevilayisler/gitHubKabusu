@@ -12,4 +12,16 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/sevilayisler/gitHubKabusu.git
 git push -u origin main
+
+
+
+ 			    git remote add origin https://github.com/sevilayisler/Github-Team105.git
+                            git commit -m "first commit"
+                            git push -u origin main
+
+
+                            git add -A
+                            git commit -m "first commit"
+                            git push -u origin main
+
  */
